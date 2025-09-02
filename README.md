@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+I'm Ian Liggett
 
 ## UX Team Project
 
