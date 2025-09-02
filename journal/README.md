@@ -1,3 +1,3 @@
-# Journal Title
+# Ian's Journal
 
 Journal narrative
