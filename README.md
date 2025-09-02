@@ -1,5 +1,6 @@
 # UX Portfolio
 
+![Image Caption](IMG_0539.jpg)
 I'm Ian Liggett
 
 ## UX Team Project
