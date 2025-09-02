@@ -1,7 +1,7 @@
 # UX Portfolio
 
-![Image Caption](IMG_0539.jpg)
-I'm Ian Liggett
+<img src = IMG_0539.jpg width="250">
+I'm Ian Liggett, a CS major at Chico State University. I'm 
 
 ## UX Team Project
 
