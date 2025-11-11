@@ -1,4 +1,4 @@
-# Ian's Journal
+# Navigating Amazon.com
 
 11/10/2025
 
