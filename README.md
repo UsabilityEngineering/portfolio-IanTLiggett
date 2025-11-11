@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-Ian's Journal
+[Navigating Amazon.com](https://github.com/UsabilityEngineering/portfolio-IanTLiggett/blob/main/journal/README.md)
