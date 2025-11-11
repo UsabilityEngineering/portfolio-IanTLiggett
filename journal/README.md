@@ -13,5 +13,5 @@ Now that I was actually on prim e video, I found the movie in no time. However n
 
 <img width="366" height="324" alt="AmazonSidebar" src="https://github.com/user-attachments/assets/f93a2d0d-1be7-4f3e-8db8-217338897d18" />
 
-Despite the website being pretty conventional I still struggled to navigate it because there were so many things on the screen. I was missing details or taking a long time to scan it for what I wanted. This made it rather **inefficient** to use.
+Despite the website being pretty conventional I still struggled to navigate it because there were so many things on the screen. I was missing details or taking a long time to scan it for what I wanted. This made it rather **inefficient** to use. It was also not very **learnable** due to the amount of information you have to process all at once if you go to the main page.
 
