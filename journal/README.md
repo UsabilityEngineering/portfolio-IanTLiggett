@@ -9,7 +9,7 @@ When I got to the main page of the website I attempted to search the name of the
 <img width="512" height="257" alt="AmazonPoorSearch" src="https://github.com/user-attachments/assets/131e697f-1803-4cb7-8279-e27c2b221f8b" />
 
 I went back to the main page and began searching for a movies only section, but failed to see it in the top bar, so spent significant time searching before finally opening the menu labeled “All” and seeing Prime Video clearly labeled.
-Now that I was actually on prim e video, I found the movie in no time. However now I wasn’t sure how to tell whether it was accessible through prime video or if I’d have to buy it even with prime video, and since I was on a different computer I had to log in to find out. After logging in I was able to tell I didn't have the movie and so rented it, and finally managed to play the movie.
+Now that I was actually on prime video, I found the movie in no time. However now I wasn’t sure how to tell whether it was accessible through prime video or if I’d have to buy it even with prime video, and since I was on a different computer I had to log in to find out. After logging in I was able to tell I didn't have the movie and so rented it, and finally managed to play the movie.
 
 <img width="366" height="324" alt="AmazonSidebar" src="https://github.com/user-attachments/assets/f93a2d0d-1be7-4f3e-8db8-217338897d18" />
 
